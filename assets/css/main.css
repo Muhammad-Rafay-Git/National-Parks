@@ -2447,7 +2447,7 @@ swiper-slide:nth-child(5n) {
   background-color: rgb(118, 163, 12);
 }
 #park-image, #park-wildlife {
-  background-image: url("images/documentaries/navigation.svg");
+  background-image: url("images/documentaries/navigation.svg")!important;
   border-radius: 10px; /* Add border radius for better aesthetics */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add border shadow */
   padding: 20px; /* Add padding for better spacing */
