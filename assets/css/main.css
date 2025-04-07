@@ -50,7 +50,7 @@
 --------------------------------------------------------------*/
 body {
   color: var(--default-color);
-  background-image: url("/images/documentaries/background.svg")!important;
+  background-image: url("../images/documentaries/background.svg")!important;
   font-family: var(--default-font);
   overflow-x: hidden;
 }
@@ -1579,7 +1579,7 @@ section {
   position: relative;
   width: 100%;
   height: 400px;
-  background: url('/assets/img/heroimg.png') center/cover no-repeat;
+  background: url('../assets/img/heroimg.png') center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2031,7 +2031,7 @@ swiper-slide img {
 
 .nature-intro {
   position: relative;
-  background: url('/assets/img/triwuet.jpg') no-repeat center center/cover;
+  background: url('../assets/img/triwuet.jpg') no-repeat center center/cover;
   color: white;
   text-align: center;
   padding: 100px 0;
@@ -2173,7 +2173,7 @@ swiper-slide img {
   color: black;
 }
 .contact-hub {
-  background: url('/assets/img/map.PNG') no-repeat center center/cover;
+  background: url('../assets/img/map.PNG') no-repeat center center/cover;
   color: white;
   padding: 80px 0;
   position: relative;
@@ -2225,7 +2225,7 @@ swiper-slide img {
   position: relative;
   width: 100%;
   height: 350px; /* Adjust height as needed */
-  background: url('/assets/img/npbanner.webp') center/cover no-repeat; /* Replace with your image */
+  background: url('../assets/img/npbanner.webp') center/cover no-repeat; /* Replace with your image */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2284,7 +2284,7 @@ swiper-slide img {
 }
 .banner-wrapper {
   position: relative;
-  background: url('/assets/img/nationalparks_smallbanner_sized.jpg') no-repeat center center/cover;
+  background: url('../assets/img/nationalparks_smallbanner_sized.jpg') no-repeat center center/cover;
   height: 400px; /* Adjust as needed */
   display: flex;
   align-items: center;
@@ -2340,7 +2340,7 @@ swiper-slide img {
 /* Breadcrumb Section */
 .breadcrumb-area {
   position: relative;
-  background: url('/assets/img/contact.jpg') no-repeat center center/cover;
+  background: url('../assets/img/contact.jpg') no-repeat center center/cover;
   color: white;
   padding: 180px 0;
   text-align: center;
@@ -2447,7 +2447,7 @@ swiper-slide:nth-child(5n) {
   background-color: rgb(118, 163, 12);
 }
 #park-image, #park-wildlife {
-  background-image: url("/images/documentaries/navigation.svg")!important;
+  background-image: url("../images/documentaries/navigation.svg")!important;
   border-radius: 10px; /* Add border radius for better aesthetics */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add border shadow */
   padding: 20px; /* Add padding for better spacing */
