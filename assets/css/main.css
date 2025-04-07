@@ -50,7 +50,7 @@
 --------------------------------------------------------------*/
 body {
   color: var(--default-color);
-  background-image: url("../images/documentaries/background.svg")!important;
+  background-image: url("./images/documentaries/background.svg")!important;
   font-family: var(--default-font);
   overflow-x: hidden;
 }
